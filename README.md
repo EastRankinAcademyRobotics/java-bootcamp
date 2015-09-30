@@ -5,7 +5,7 @@ In this repository you’ll find the slides and code that we went over during ou
 In the directory for each day you will find the PowerPoint files for the day and any Java code we discussed.
 
 ##Day 1
-Fundamentals
+###Fundamentals
 - What is a computer
 - The parts of a computer
 	- Hardware
@@ -17,7 +17,7 @@ Fundamentals
 Program: Hello World!
 
 ##Day 2
-Java Basics
+###Java Basics
 - The parts of a basic Java program
 	- Statements
 	- Methods
